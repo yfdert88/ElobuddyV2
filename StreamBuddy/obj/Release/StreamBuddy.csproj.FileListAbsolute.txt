@@ -1,0 +1,11 @@
+C:\Users\serse\Documents\Visual Studio 2012\StreamBuddy\bin\Release\StreamSharp.exe.config
+C:\Users\serse\Documents\Visual Studio 2012\StreamBuddy\bin\Release\StreamSharp.exe
+C:\Users\serse\Documents\Visual Studio 2012\StreamBuddy\bin\Release\StreamSharp.pdb
+C:\Users\serse\Documents\Visual Studio 2012\StreamBuddy\bin\Release\EloBuddy.dll
+C:\Users\serse\Documents\Visual Studio 2012\StreamBuddy\bin\Release\EloBuddy.SDK.dll
+C:\Users\serse\Documents\Visual Studio 2012\StreamBuddy\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\serse\Documents\Visual Studio 2012\StreamBuddy\bin\Release\SharpDX.dll
+C:\Users\serse\Documents\Visual Studio 2012\StreamBuddy\bin\Release\Newtonsoft.Json.dll
+C:\Users\serse\Documents\Visual Studio 2012\StreamBuddy\bin\Release\EloBuddy.Sandbox.dll
+C:\Users\serse\Documents\Visual Studio 2012\StreamBuddy\obj\Release\StreamSharp.exe
+C:\Users\serse\Documents\Visual Studio 2012\StreamBuddy\obj\Release\StreamSharp.pdb

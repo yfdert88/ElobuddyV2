@@ -1,0 +1,29 @@
+C:\Users\Tylers\Desktop\WorkFiles\StreamSharp\bin\Release\StreamSharp.exe.config
+C:\Users\Tylers\Desktop\WorkFiles\StreamSharp\bin\Release\StreamSharp.exe
+C:\Users\Tylers\Desktop\WorkFiles\StreamSharp\bin\Release\StreamSharp.pdb
+C:\Users\Tylers\Desktop\WorkFiles\StreamSharp\bin\Release\EloBuddy.dll
+C:\Users\Tylers\Desktop\WorkFiles\StreamSharp\bin\Release\EloBuddy.SDK.dll
+C:\Users\Tylers\Desktop\WorkFiles\StreamSharp\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\Tylers\Desktop\WorkFiles\StreamSharp\bin\Release\SharpDX.dll
+C:\Users\Tylers\Desktop\WorkFiles\StreamSharp\bin\Release\Newtonsoft.Json.dll
+C:\Users\Tylers\Desktop\WorkFiles\StreamSharp\obj\Debug\StreamSharp.exe
+C:\Users\Tylers\Desktop\WorkFiles\StreamSharp\obj\Debug\StreamSharp.pdb
+C:\Users\Tylers\Desktop\WorkFiles\StreamBuddy\bin\Release\StreamSharp.exe.config
+C:\Users\Tylers\Desktop\WorkFiles\StreamBuddy\obj\Debug\StreamSharp.exe
+C:\Users\Tylers\Desktop\WorkFiles\StreamBuddy\obj\Debug\StreamSharp.pdb
+C:\Users\Tylers\Desktop\WorkFiles\StreamBuddy\bin\Release\StreamSharp.exe
+C:\Users\Tylers\Desktop\WorkFiles\StreamBuddy\bin\Release\StreamSharp.pdb
+C:\Users\Tylers\Desktop\WorkFiles\StreamBuddy\bin\Release\EloBuddy.dll
+C:\Users\Tylers\Desktop\WorkFiles\StreamBuddy\bin\Release\EloBuddy.SDK.dll
+C:\Users\Tylers\Desktop\WorkFiles\StreamBuddy\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\Tylers\Desktop\WorkFiles\StreamBuddy\bin\Release\SharpDX.dll
+C:\Users\Tylers\Desktop\WorkFiles\StreamBuddy\bin\Release\Newtonsoft.Json.dll
+C:\Users\Tylers\Desktop\WorkFiles\StreamBuddy\obj\Debug\StreamBuddy.csprojResolveAssemblyReference.cache
+C:\Users\serse\Documents\Visual Studio 2012\StreamBuddy\bin\Release\StreamSharp.exe.config
+C:\Users\serse\Documents\Visual Studio 2012\StreamBuddy\obj\Debug\StreamSharp.exe
+C:\Users\serse\Documents\Visual Studio 2012\StreamBuddy\obj\Debug\StreamSharp.pdb
+C:\Users\serse\Documents\Visual Studio 2012\StreamBuddy\bin\Release\StreamSharp.exe
+C:\Users\serse\Documents\Visual Studio 2012\StreamBuddy\bin\Release\StreamSharp.pdb
+C:\Users\serse\Documents\Visual Studio 2012\StreamBuddy\bin\Release\Newtonsoft.Json.dll
+C:\Users\serse\Documents\Visual Studio 2012\StreamBuddy\obj\Debug\StreamBuddy.csprojResolveAssemblyReference.cache
+C:\Users\serse\Documents\Visual Studio 2012\StreamBuddy\bin\Release\EloBuddy.Sandbox.dll
